@@ -2,6 +2,9 @@
 
 This is a simple full-stack survey form application that allows users to submit required information and store their data in a database. It includes both the frontend and backend components.
 
+![image](https://github.com/Rajdeep777/Survey-Form/assets/74129008/f047dc42-7b7f-4d9b-b78f-f0d376242bd4)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
